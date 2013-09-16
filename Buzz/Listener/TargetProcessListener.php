@@ -1,6 +1,6 @@
 <?php
 
-namespace ZENben\TargetProcessBundle\Buzz\Listener;
+namespace ZENben\Bundle\TargetProcessBundle\Buzz\Listener;
 
 use Buzz\Message\MessageInterface;
 use Buzz\Message\RequestInterface;

@@ -3,7 +3,7 @@ parameters:
     
 services:
     targetprocess:
-        class: ZENben\TargetProcessBundle\Service\TargetProcessService
+        class: ZENben\Bundle\TargetProcessBundle\Service\TargetProcessService
         arguments:
             - '@buzz'
             - '@security.context'

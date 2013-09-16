@@ -1,6 +1,6 @@
 <?php
 
-namespace ZENben\TargetProcessBundle;
+namespace ZENben\Bundle\TargetProcessBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

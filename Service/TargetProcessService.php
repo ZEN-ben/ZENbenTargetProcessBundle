@@ -1,8 +1,8 @@
 <?php
 
-namespace ZENben\TargetProcessBundle\Service;
+namespace ZENben\Bundle\TargetProcessBundle\Service;
 
-use ZENben\TargetProcessBundle\Buzz\Listener\TargetProcessListener;
+use ZENben\Bundle\TargetProcessBundle\Buzz\Listener\TargetProcessListener;
 
 class TargetProcessService
 {

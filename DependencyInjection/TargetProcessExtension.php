@@ -1,6 +1,6 @@
 <?php
 
-namespace ZENben\TargetProcessBundle\DependencyInjection;
+namespace ZENben\Bundle\TargetProcessBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
