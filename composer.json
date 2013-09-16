@@ -5,7 +5,7 @@
     "keywords":    [
         "targetprocess"
     ],
-    "homepage":    "https://github.com/WybrenKoelmans/ZENbenTargetProcessBundle",
+    "homepage":    "https://github.com/ZEN-ben/ZENbenTargetProcessBundle",
     "license":     "MIT",
 
     "authors": [
@@ -15,7 +15,7 @@
         },
         {
             "name": "Contributors",
-            "homepage": "https://github.com/WybrenKoelmans/ZENbenTargetProcessBundle/contributors"
+            "homepage": "https://github.com/ZEN-ben/ZENbenTargetProcessBundle/contributors"
         }
     ],
 
