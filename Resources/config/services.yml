@@ -1,0 +1,10 @@
+parameters:
+    
+    
+services:
+    targetprocess:
+        class: ZENben\TargetProcessBundle\Service\TargetProcessService
+        arguments:
+            - '@buzz'
+            - '@security.context'
+            - %targetprocess%
